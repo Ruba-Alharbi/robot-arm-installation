@@ -15,4 +15,4 @@ Installation steps:
 The robot arm
 =============
 
-![caption](arm.gif/GIF)
+![caption](arm.gif)
