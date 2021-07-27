@@ -11,3 +11,8 @@ Installation steps:
 3. Installation of the first arm with a length of 163 mm
 4. Installation of the second arm with a length of 180 mm 
 5. Installation of the gripper with length 142 mm
+
+The robot arm
+=============
+
+![caption](arm.gif/GIF)
